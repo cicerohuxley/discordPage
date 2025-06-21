@@ -47,7 +47,6 @@
   margin: 25px 15px 15px 15px;
 }
 
-
 #button1 {
   font-family: "Open Sans";
   font-weight: 400;
@@ -59,7 +58,6 @@
   margin-right: 30px;
   color: rgba(35, 39, 42, 1)
 }
-
 
 #button2 {
   font-family: "Open Sans";
@@ -77,4 +75,54 @@
 
 #header-buttons-container {
   margin-top: 25px;
+}
+
+@media (max-width:428px) {
+  #header {
+    max-width: 428px;
+    background-size: 400%;
+    background-position: center;
+  }
+
+  #header-paragraph {
+    color: black;
+    text-align: justify;
+    color: rgba(255, 255, 255);
+
+  }
+
+  #header-title {
+    color: rgba(255, 255, 255);
+    font-size: 32px;
+    text-align: start;
+    margin-left: 25px;
+  }
+
+  #button1 {
+    font-family: "Open Sans";
+    font-weight: 400;
+    size: 16px;
+    width: 381px;
+    height: 44px;
+    margin-left: 30px;
+    margin-bottom: 7px;
+    border-radius: 28px;
+    border: none;
+    color: rgba(35, 39, 42, 1)
+  }
+
+  #button2 {
+    font-family: "Open Sans";
+    font-weight: 400;
+    size: 16px;
+    width: 381px;
+    height: 44px;
+    border-radius: 28px;
+    border: none;
+    margin-left: 30px;
+    margin-top: 7px;
+    color: var(--white-rgb-a);
+
+    background-color: rgba(35, 39, 42, 1)
+  }
 }
