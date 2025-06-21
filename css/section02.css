@@ -2,13 +2,16 @@
     --black-rgb-a: rgba(35, 39, 42, 1);
 }
 
-#section-01 {
+
+
+#section-02 {
     display: flex;
-    width: 1200px;
-    margin: 0 auto;
+    width: 1355px;
+    margin: 50px 0px 0px 0px;
+    background-color: rgba(246, 246, 246, 1);
 }
 
-#section-01-title {
+#section-02-title {
     font-family: "Open Sans";
     font-weight: 800;
     margin: 15px 50px 15px 50px;
@@ -17,7 +20,7 @@
 
 }
 
-#section-01-paragraph{
+#section-02-paragraph{
       font-family: "Open Sans";
     font-weight: 400;
     font-size: 16px;
@@ -26,12 +29,17 @@
     color: rgba(35, 39, 42, 1);
 }
 
-#text-container-section-01 {
-    width: 450px;
-}
-
-#container-image-section1 {
+#text-container-section-02 {
     margin-left: 60px;
 }
 
+#container-image-section2 {
+    margin-left: 0px;
+}
+
+
+#text-container-section-02{
+    padding-top: 90px;
+    padding-left: 100px;
+}
 
