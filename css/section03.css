@@ -2,14 +2,14 @@
     --black-rgb-a: rgba(35, 39, 42, 1);
 }
 
-
-#section-01 {
+#section-03 {
     display: flex;
     width: 1200px;
     margin: 0 auto;
+    margin-top: 100px;
 }
 
-#section-01-title {
+#section-03-title {
     font-family: "Open Sans";
     font-weight: 800;
     margin: 15px 50px 15px 50px;
@@ -18,7 +18,7 @@
 
 }
 
-#section-01-paragraph{
+#section-03-paragraph{
       font-family: "Open Sans";
     font-weight: 400;
     font-size: 16px;
@@ -27,11 +27,11 @@
     color: rgba(35, 39, 42, 1);
 }
 
-#text-container-section-01 {
+#text-container-section-03 {
     width: 450px;
 }
 
-#container-image-section1 {
+#container-image-section03 {
     margin-left: 60px;
 }
 
