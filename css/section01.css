@@ -18,8 +18,8 @@
 
 }
 
-#section-01-paragraph{
-      font-family: "Open Sans";
+#section-01-paragraph {
+    font-family: "Open Sans";
     font-weight: 400;
     font-size: 16px;
     margin-top: 5px;
@@ -36,7 +36,21 @@
 }
 
 #container-image-section1 img {
-     max-width: 100%;
-     
+    max-width: 100%;
+
 }
 
+
+@media (max-width:428px) {
+    #section-01 {
+        max-width: 428px;
+        display: block;
+    }
+    #container-image-section1 {
+        margin: 15px;
+    }
+    #section-01-title{
+        font-size: 24px;
+    }
+
+}

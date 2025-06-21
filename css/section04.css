@@ -26,3 +26,11 @@
 #section-04 img {
     max-width: 100%;
 }
+
+
+/* @media (max-width:428px) {
+      #section-04{
+    max-width: 428px;
+    display: block;
+  }
+} */
