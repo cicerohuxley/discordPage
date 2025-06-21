@@ -1,0 +1,80 @@
+:root {
+  --white-rgb-a: rgba(255, 255, 255, 1);
+}
+
+#header {
+  height: 430px;
+  text-align: center;
+  background-image: url("../img/backgroundheader.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#header-text-container {
+  width: 757px;
+  height: 300px;
+  text-align: center;
+}
+
+#header-title {
+  margin-bottom: 30px;
+}
+
+#header-title {
+  font-weight: 400;
+  font-size: 56px;
+  line-height: 100%;
+  color: var(--white-rgb-a)
+}
+
+#header-title {
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+#header-paragraph {
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 100%;
+  font-style: normal;
+  color: var(--white-rgb-a);
+  margin: 25px 15px 15px 15px;
+}
+
+
+#button1 {
+  font-family: "Open Sans";
+  font-weight: 400;
+  size: 16px;
+  width: 205px;
+  height: 44px;
+  border-radius: 28px;
+  border: none;
+  margin-right: 30px;
+  color: rgba(35, 39, 42, 1)
+}
+
+
+#button2 {
+  font-family: "Open Sans";
+  font-weight: 400;
+  size: 16px;
+  width: 281px;
+  height: 44px;
+  border-radius: 28px;
+  border: none;
+  margin-right: 30px;
+  color: var(--white-rgb-a);
+
+  background-color: rgba(35, 39, 42, 1)
+}
+
+#header-buttons-container {
+  margin-top: 25px;
+}
