@@ -18,3 +18,10 @@ ul {
   padding: 0px;
   list-style: none;
 }
+
+
+@media (max-width:428px) {
+  body{
+    max-width: 428px;
+  }
+}
