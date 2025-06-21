@@ -10,3 +10,6 @@
     width:  1360px ;
     height: 134px;
 }
+#footer img{
+    max-width: 100%;
+}
