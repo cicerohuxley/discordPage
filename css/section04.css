@@ -1,0 +1,24 @@
+#section-04 {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#section-04 img {
+    width: 784px;
+}
+
+#section-04-title {
+    font-family: "Luckiest Guy";
+    margin-top: 80px;
+    font-weight: 400;
+    font-size: 40px;
+    color: rgba(35, 39, 42, 1);
+}
+
+#section-04-paragraph {
+    font-family: "Open Sans";
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(35, 39, 42, 1);
+}
