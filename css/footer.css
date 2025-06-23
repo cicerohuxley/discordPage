@@ -13,3 +13,17 @@
 #footer img{
     max-width: 100%;
 }
+
+
+@media (max-width:428px) {
+    #footer{
+        max-width: 100%;
+        display: block;
+        display: flex;
+        text-align: center;
+        justify-content: center;
+    }
+
+
+  
+}

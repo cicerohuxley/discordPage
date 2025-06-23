@@ -18,8 +18,8 @@
 
 }
 
-#section-03-paragraph{
-      font-family: "Open Sans";
+#section-03-paragraph {
+    font-family: "Open Sans";
     font-weight: 400;
     font-size: 16px;
     margin-top: 5px;
@@ -35,28 +35,28 @@
     margin-left: 60px;
 }
 
-#container-image-section03 img{
+#container-image-section03 img {
     max-width: 100%;
 }
 
 @media (max-width: 428px) {
-    #section-03{
-        max-width: 428px;
+    #section-03 {
+        max-width: 100%;
         display: block;
     }
 
-  
-     #text-container-section-03{
+
+    #text-container-section-03 {
         width: 100%;
         margin: 0;
     }
 
-     #section-03-title{
+    #section-03-title {
         font-size: 24px;
     }
-  
 
-    #container-image-section03{
+
+    #container-image-section03 {
         margin: 0;
     }
 }

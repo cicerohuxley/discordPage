@@ -53,7 +53,7 @@
 
 @media (max-width: 428px) {
     #section-02 {
-        max-width: 428px;
+        max-width: 100%;
         flex-direction: column-reverse;
     }
 

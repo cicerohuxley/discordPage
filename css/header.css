@@ -79,7 +79,7 @@
 
 @media (max-width:428px) {
   #header {
-    width: 428px;
+    max-width: 428px;
     background-size: 400%;
     height: 500px;
     background-position: center;
@@ -88,6 +88,7 @@
   #header-paragraph {
     color: black;
     text-align: justify;
+    padding: 15px;
     color: rgba(255, 255, 255);
 
   }
