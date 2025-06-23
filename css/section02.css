@@ -20,8 +20,8 @@
 
 }
 
-#section-02-paragraph{
-      font-family: "Open Sans";
+#section-02-paragraph {
+    font-family: "Open Sans";
     font-weight: 400;
     font-size: 16px;
     margin-top: 5px;
@@ -38,33 +38,33 @@
 }
 
 
-#text-container-section-02{
+#text-container-section-02 {
     padding-top: 90px;
     padding-left: 100px;
 }
 
 
-  
 
-#container-image-section2 img{
-     max-width: 100%;
+
+#container-image-section2 img {
+    max-width: 100%;
 }
 
 
 @media (max-width: 428px) {
-    #section-02{
+    #section-02 {
         max-width: 428px;
-        flex-direction: column-reverse
+        flex-direction: column-reverse;
     }
 
-  
-     #text-container-section-02{
+
+    #text-container-section-02 {
         margin: 0;
         width: 100%;
         padding: 0px;
     }
 
-     #section-02-title{
+    #section-02-title {
         font-size: 24px;
     }
 }
