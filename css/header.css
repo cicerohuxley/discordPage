@@ -79,7 +79,7 @@
 
 @media (max-width:428px) {
   #header {
-    max-width: 428px;
+    width: 428px;
     background-size: 400%;
     height: 500px;
     background-position: center;
