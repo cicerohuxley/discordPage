@@ -49,3 +49,22 @@
 #container-image-section2 img{
      max-width: 100%;
 }
+
+
+@media (max-width: 428px) {
+    #section-02{
+        max-width: 428px;
+        flex-direction: column-reverse
+    }
+
+  
+     #text-container-section-02{
+        margin: 0;
+        width: 100%;
+        padding: 0px;
+    }
+
+     #section-02-title{
+        font-size: 24px;
+    }
+}
